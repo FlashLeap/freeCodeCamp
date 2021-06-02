@@ -1,5 +1,4 @@
-### VisualStudioCode ###
-.vscode/*
+code/*
 
 ### WebStorm ###
 .idea/*
